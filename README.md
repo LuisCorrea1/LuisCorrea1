@@ -10,7 +10,7 @@
 <body>
     <h3>Estudiante de Ingeniería en Sistemas en Tecnológico de Monterrey</h3>
 
-    <p> Lenguajes </p>
+    <p> Lenguajes conocidos </p>
     <ol>
         <li> HTML </li>
         <li> CSS </li>
