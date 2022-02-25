@@ -1,4 +1,4 @@
-### Hola! Soy Luis Correa 👋
+### Hola! Soy Luis Correa :computer:
 
 <!DOCTYPE html>
 <html lang="en">
