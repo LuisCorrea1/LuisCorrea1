@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h3>Estudiante de Ingeniería en Sistemas en Tecnológico de Monterrey :technologist: </h3> 
+    <h3>Estudiante de Ingeniería en Sistemas :technologist: </h3> 
 
     <p> Lenguajes conocidos </p>
     <ol>
