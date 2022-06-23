@@ -1,7 +1,6 @@
 <h1 align="center">Hi! I'm Luis</h1>
 <h3 align="center">Software engineer student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luiscorrea1&label=Profile%20views&color=0e75b6&style=flat" alt="luiscorrea1" /> </p>
 
 - Currently working on **personal proyects for my portfolio**
 
